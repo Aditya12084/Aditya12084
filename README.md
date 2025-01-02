@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Patayane</h1>
 <h3 align="center">A passionate Computer Engineering Undergraduate from India</h3>
-<img src="https://camo.githubusercontent.com/e25d173d73b3b9ea132e4b1ad6ac45ce715bd826e6b6947010d05c24e91fd125/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067" height="240" width="480">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya12084&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12084" /> </p>
 
